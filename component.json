@@ -1,0 +1,22 @@
+{
+  "name": "is",
+  "author": "Walter Rafael Ch S <debianw@gmail.com>",
+  "repo": "debianw/is",
+  "description": "A full set of static methods to do type checking",
+  "version": "0.0.1",
+  "keywords": [
+    "type",
+    "typeof",
+    "validate"
+  ],
+  "development": {
+    "visionmedia/mocha": "*",
+    "chaijs/chai": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}
