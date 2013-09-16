@@ -41,6 +41,7 @@ module.exports = {
    */
 
   isEmpty: function (value, allowEmptyString) {
+    value = this.isString(value) && !allowEmptyString ? value.trim() : value;
     return (value === null) || (value === undefined) || (!allowEmptyString ? value === '' : false) || (this.isArray(value) && value.length === 0);
   },
 

@@ -1,0 +1,20 @@
+{
+  "name": "is",
+  "author": "Walter Rafael Ch S <debianw@gmail.com>",
+  "description": "A full set of static methods to do type checking",
+  "version": "0.0.1",
+  "keywords": [
+    "type",
+    "typeof",
+    "validate"
+  ],
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec test/is.js"
+  }
+}
