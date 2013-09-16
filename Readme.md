@@ -1,6 +1,8 @@
 
 # is
 
+[![Build Status](https://travis-ci.org/debianw/is.png?branch=master)](https://travis-ci.org/debianw/is)
+
   A full set of static methods to do type checking
 
 ## Installation
@@ -12,7 +14,7 @@
   Install with npm:
 
     $ npm install is
-  
+
 ## API
 
   * isEmail()
