@@ -1,8 +1,8 @@
 {
-  "name": "component-is",
+  "name": "isthis",
   "author": "Walter Rafael Ch S <debianw@gmail.com>",
   "description": "A full set of static methods to do type checking",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/debianw/is",
   "repository": {
     "type": "git",

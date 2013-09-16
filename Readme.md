@@ -13,7 +13,7 @@
 
   Install with npm:
 
-    $ npm install is
+    $ npm install isthis
 
 ## API
 
