@@ -14,8 +14,8 @@ catch(e) {
   is = require("..");
 }
 
-var chai = require("chai");
-var expect = chai.expect;
+var chai = require("chai")
+  , expect = chai.expect;
 
 describe("is", function () {
 
