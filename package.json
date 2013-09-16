@@ -3,6 +3,11 @@
   "author": "Walter Rafael Ch S <debianw@gmail.com>",
   "description": "A full set of static methods to do type checking",
   "version": "0.0.1",
+  "homepage": "https://github.com/debianw/is",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/debianw/is.git"
+  },
   "keywords": [
     "type",
     "typeof",
