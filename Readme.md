@@ -9,6 +9,10 @@
 
     $ component install debianw/is
 
+  Install with npm:
+
+    $ npm install is
+  
 ## API
 
   * isEmail()
